@@ -7,7 +7,7 @@
 
 Una piattaforma **Security Operations Center (SOC)** enterprise costruita con **HTML, CSS e JavaScript puri**. Nessuna dipendenza esterna, nessun backend.
 
-## ✨ Funzionalità
+##  Funzionalità
 
 - **Attack surface map** live con archi di attacco da 12 paesi in tempo reale
 - **Live threat feed** con streaming attacchi e controlli pausa/riprendi
@@ -29,7 +29,7 @@ Una piattaforma **Security Operations Center (SOC)** enterprise costruita con **
 - **MITRE ATT&CK** tagging sulle tecniche di attacco
 - **Scorciatoie tastiera** complete
 
-## 🛠 Tecnologie
+##  Tecnologie
 
 - HTML5
 - CSS3 (Grid, Flexbox, animazioni, backdrop-filter, custom properties)
@@ -37,7 +37,7 @@ Una piattaforma **Security Operations Center (SOC)** enterprise costruita con **
 - Web Audio API (alert sonori)
 - Clipboard API (copy IOC)
 
-## 📖 Scorciatoie
+##  Scorciatoie
 
 | Tasto | Azione |
 |---|---|
@@ -50,7 +50,7 @@ Una piattaforma **Security Operations Center (SOC)** enterprise costruita con **
 | `?` | Aiuto e scorciatoie |
 | `ESC` | Chiudi modali |
 
-## 🚀 Deploy
+##  Deploy
 
 Basta aprire `index.html` nel browser. Per GitHub Pages:
 
@@ -60,13 +60,13 @@ Basta aprire `index.html` nel browser. Per GitHub Pages:
 
 Demo live: `https://nowii-core.github.io/nowii-sentinel/`
 
-## 🎯 Cosa dimostra
+##  Cosa dimostra
 
 - Comprensione dei workflow SOC reali (threat hunting, incident response, vulnerability management)
 - Conoscenza di framework di sicurezza (MITRE ATT&CK, NIST, ISO 27001, SOC 2, GDPR)
 - Capacità di costruire interfacce dati-intensive con canvas custom e gestione stato complessa
 - Attenzione al dettaglio enterprise (multi-tenant, RBAC, audit, notifiche, onboarding)
 
-## 📫 Contatti
+##  Contatti
 
 - GitHub: [@nowii-core](https://github.com/nowii-core)
